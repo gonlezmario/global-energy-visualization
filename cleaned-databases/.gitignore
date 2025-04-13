@@ -1,0 +1,5 @@
+# File added to add this directory and avoid errors running the notebook
+# Ignore every file in this folder
+*
+# Except this one
+!.gitignore
